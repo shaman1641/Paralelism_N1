@@ -6,7 +6,7 @@
 2) Для Float
 >>make float
 
-Коспиляция через CMake файл:
+Компиляция через CMake файл:
 >>cmake CMakeCache.txt
 
 1) Для Double
