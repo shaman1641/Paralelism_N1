@@ -10,8 +10,8 @@
 >>cmake CMakeCache.txt
 
 1) Для Double
->>cmake -DUSE_DOUBLE=ON
+>>cmake -DUSE_DOUBLE=ON   
 >>cmake --build ./  
 2) Для Float
->>cmake -DUSE_DOUBLE=OFF
+>>cmake -DUSE_DOUBLE=OFF   
 >>cmake --build ./  
