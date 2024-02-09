@@ -1,9 +1,11 @@
 Первое задание по паралелиму 
-Коспиляция через make файл: 
+
+Компиляция через make файл: 
 1) Для Double 
 >>make double 
 2) Для Float
 >>make float
+
 Коспиляция через CMake файл:
 >>cmake CMakeCache.txt
 
