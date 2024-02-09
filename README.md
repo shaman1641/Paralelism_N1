@@ -1,13 +1,15 @@
-Первое задание по паралелиму 
-Коспиляция через make файл: 
-1) Для Double
-  make double
+Первое задание по паралелиму \n
+Коспиляция через make файл: \n
+1) Для Double \n
+>>make double \n
 2) Для Float
-  make float
+>>make float
 Коспиляция через CMake файл:
-cmake CMakeCache.txt 
+>>cmake CMakeCache.txt
+
 1) Для Double
-  cmake -DUSE_DOUBLE=ON
+>>cmake -DUSE_DOUBLE=ON
 2) Для Float
-  cmake -DUSE_DOUBLE=OFF
-cmake --build ./  
+>>cmake -DUSE_DOUBLE=OFF
+
+>>cmake --build ./  
