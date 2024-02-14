@@ -7,7 +7,7 @@
 >>make float
 
 Компиляция через CMake файл:
->>cmake CMakeCache.txt
+>>cmake CMakeList.txt
 
 1) Для Double
 >>cmake -DUSE_DOUBLE=ON   
